@@ -1,23 +1,23 @@
-# Neve #
-**Contributors:** [themeisle](https://profiles.wordpress.org/themeisle)  
-**Tags:** blog,block-patterns, custom-logo, e-commerce, rtl-language-support, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, accessibility-ready, wide-blocks, block-styles, footer-widgets, portfolio, left-sidebar, right-sidebar  
-**Requires at least:** 5.5  
-**Tested up to:** 6.3  
-**Stable tag:** trunk  
-**Requires PHP:** 7.0  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+=== Neve ===
+Contributors: themeisle
+Tags: blog,block-patterns, custom-logo, e-commerce, rtl-language-support, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, accessibility-ready, wide-blocks, block-styles, footer-widgets, portfolio, left-sidebar, right-sidebar
+Requires at least: 5.5
+Tested up to: 6.3
+Stable tag: trunk
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Neve is a super fast, easily customizable, multi-purpose theme. Perfect for blogs, small business, startups, agencies, firms & e-commerce shops.
 
-## Description ##
+== Description ==
 Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!
 
-## Copyright ##
+== Copyright ==
 Neve WordPress theme, Copyright 2018 Themeisle
 Neve is distributed under the terms of the GNU GPLv2 or later
 
-## Changelog ##
+== Changelog ==
 
 ##### [Version 3.7.3](https://github.com/Codeinwp/neve/compare/v3.7.2...v3.7.3) (2023-10-23)
 
@@ -799,7 +799,7 @@ Neve is distributed under the terms of the GNU GPLv2 or later
 - Remove Otter compatibility for Gutenberg Templates
 
 
-## Resources ##
+== Resources ==
 * Neve Icons based on Font Awesome Icons licensed under CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/).
 
 All images are licensed under CC0.
