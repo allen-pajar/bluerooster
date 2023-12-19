@@ -34,17 +34,11 @@ class Content_404 extends Base_View {
 
 		echo '<div class="col-12 nv-content-none-wrap">';
 		echo '<p>';
-		esc_html_e( 'It seems we can&rsquo;t find what you&rsquo;re looking for. Let&rsquo;s go back to the homepage.', 'neve' );
+		esc_html_e( 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.', 'neve' );
 		echo '</p>';
-
-		echo '<a href="/" class="wp-block-button__link has-nv-c-1-background-color has-background wp-element-button">Return to Homepage</a>';
-
-		/**echo '<div class="nv-seach-form-wrap">';
+		echo '<div class="nv-seach-form-wrap">';
 		get_search_form();
 		echo '</div>';
-		**/
-
-
 		echo '</div>';
 
 		echo '<div class="w-100"></div>';
